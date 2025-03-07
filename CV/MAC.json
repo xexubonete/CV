@@ -1,0 +1,304 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Jesus",
+      "surnames": "Bonete S.",
+      "title": ".NET Developer | Backend Developer",
+      "description": "Soy un desarrollador de software con alrededor de 3 años de experiencia, actualmente trabajando en SAVIA, una empresa líder en servicios digitales en la administración pública. En mi día a día, desarrollo soluciones innovadoras y eficientes utilizando tecnologías como .NET, WebAPIs, Entity Framework y Dapper. Siempre buscando escribir código limpio, escalable, bien estructurado y la mejor forma de optimizar cada solución.\n\nLo que realmente me apasiona de este mundo es que siempre hay algo nuevo por aprender. Siento que los días se quedan cortos con todo lo que quiero explorar, por eso dedico gran parte de mi tiempo libre a seguir formándome, ya sea investigando nuevas tecnologías, mejorando mis conocimientos en arquitecturas de software o practicando con proyectos personales.\n\nDisfruto enfrentándome a nuevos retos, probando enfoques distintos y aprendiendo de cada experiencia. Mi objetivo es seguir creciendo tanto a nivel técnico como profesional, rodeado de un equipo que valore la mejora continua y el desarrollo de software de calidad. Puedes echar un vistazo a mi perfil de GitHub y mi portfolio web para conocer más sobre mi trabajo.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/11/f5341c8a-94e3-436f-8b11-9ab36aa08ff0_linkedin-photo-43496.linkedin-photo-43496",
+        "alt": "24/03/11/f5341c8a-94e3-436f-8b11-9ab36aa08ff0_linkedin-photo-43496.linkedin-photo-43496"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJk4iQY9bEYw0RQOxBn5sdzDk)",
+        "country": "España",
+        "region": "Comunidad Valenciana",
+        "municipality": "Elda"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/jesus-bonete-sanchez"
+      },
+      {
+        "type": "github",
+        "URL": "https://www.github.com/xexubonete"
+      },
+      {
+        "type": "other",
+        "URL": "https://xexubonete.dev"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Savia (by Berger-Levrault)"
+        },
+        "roles": [
+          {
+            "name": ".NET Developer",
+            "startDate": "2024-04-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "NTT DATA"
+        },
+        "roles": [
+          {
+            "name": ".NET Developer",
+            "startDate": "2023-12-01",
+            "finishDate": "2024-04-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "NTT DATA"
+        },
+        "roles": [
+          {
+            "name": "Junior .NET Developer",
+            "startDate": "2022-06-01",
+            "finishDate": "2023-12-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "NTT DATA"
+        },
+        "roles": [
+          {
+            "name": "Prácticas",
+            "startDate": "2022-03-01",
+            "finishDate": "2022-06-01"
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Professional working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": ".NET",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": ".Net Core",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Azure DevOps",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C#",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Dapper",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "LinQ",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLServer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ciclo Formativo de Grado Superior",
+        "startDate": "2020-09-01",
+        "institution": {
+          "name": "IES Mare Nostrum"
+        },
+        "finishDate": "2022-06-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Autonomía en el aprendizaje",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacidad de autogestión",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/jesus-bonete-sanchez",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://www.github.com/xexubonete",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "xexubonete@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "722243881",
+          "countryCode": "+34"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": ".NET",
+          "type": "technology"
+        },
+        {
+          "name": ".Net Core",
+          "type": "technology"
+        },
+        {
+          "name": "Angular Universal",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "SQL",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Full-stack Developer"
+      ]
+    },
+    "status": "searchingActively",
+    "requirements": {
+      "contractTypes": [
+        "permanent"
+      ]
+    }
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": ".NET",
+        "type": "technology"
+      },
+      {
+        "name": "Azure DevOps",
+        "type": "technology"
+      },
+      {
+        "name": "C#",
+        "type": "technology"
+      },
+      {
+        "name": "Git",
+        "type": "technology"
+      },
+      {
+        "name": "SQL",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Mi trabajo ideal me permitiría desarrollar nuevas funcionalidades y evolutivos en proyectos que utilicen tecnologías relativamente actuales de .NET. Me motiva trabajar en un entorno donde pueda centrarme exclusivamente en el desarrollo, explorando soluciones innovadoras y mejorando continuamente el producto. Disfruto trabajando con metodologías ágiles basadas en Sprints, ya que sacan mi máximo desempeño y me permiten ser altamente productivo. Valoro la flexibilidad horaria, con jornadas de 8 horas sin pausa obligatoria para comer, y la posibilidad de teletrabajar al 100%, aunque con la opción de acudir a una oficina cercana cuando me apetezca. Busco un equipo donde prime la transparencia y la comunicación abierta, sin barreras entre management y desarrollo.",
+    "goodPractices": "En mi trabajo como desarrollador backend en .NET, siempre busco aplicar buenas prácticas para escribir código limpio, mantenible y escalable. Me apoyo en principios sólidos de desarrollo y herramientas que me permiten optimizar cada solución.\n\nCreo firmemente en la importancia de seguir los principios SOLID para lograr un código modular y fácil de mantener. Aplico Clean Architecture y patrones como DDD para estructurar las aplicaciones de manera clara, separando correctamente las responsabilidades y evitando dependencias innecesarias. Esto me ayuda a construir soluciones escalables y flexibles.\n\nUtilizo patrones como CQRS para separar las operaciones de lectura y escritura, mejorando el rendimiento y la organización del código. Empleo MediatR para desacoplar componentes y facilitar la comunicación entre distintas partes de la aplicación sin necesidad de dependencias directas.\n\nTrabajo con Entity Framework cuando necesito un ORM potente que simplifique el acceso a bases de datos, y con Dapper cuando busco un enfoque más ligero y eficiente en consultas complejas. Tengo experiencia en bases de datos como MSSQL y PostgreSQL, eligiendo la mejor estrategia según el caso de uso y optimizando consultas para mejorar el rendimiento.\n\nUtilizo Hangfire para gestionar tareas en segundo plano de forma eficiente, asegurando que procesos críticos se ejecuten sin afectar el rendimiento de la aplicación principal. También empleo AutoMapper para reducir la complejidad en la conversión de modelos de datos, evitando código repetitivo y mejorando la mantenibilidad.\n\nMás allá de las herramientas y tecnologías, me esfuerzo por seguir aprendiendo y mejorando mis habilidades. Leo sobre nuevas tendencias, pruebo enfoques diferentes y estudio arquitecturas avanzadas para mantenerme actualizado. Creo que escribir buen código no solo es una habilidad técnica, sino una disciplina que requiere constancia y aprendizaje continuo."
+  }
+}
