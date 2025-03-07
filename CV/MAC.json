@@ -193,7 +193,7 @@
         }
       },      {
         "skill": {
-          "name": "MSSQL",
+          "name": "MMSSQL",
           "type": "technology"
         }
       },
