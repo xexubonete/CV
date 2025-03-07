@@ -116,7 +116,7 @@
       },
       {
         "skill": {
-          "name": "AzureDevOps",
+          "name": "Azure DevOps",
           "type": "technology"
         }
       },
@@ -134,7 +134,7 @@
       },      
       {
         "skill": {
-          "name": "EntityFramework",
+          "name": "Entity Framework",
           "type": "technology"
         }
       },
@@ -189,6 +189,11 @@
       {
         "skill": {
           "name": "SQL",
+          "type": "technology"
+        }
+      },      {
+        "skill": {
+          "name": "MSSQL",
           "type": "technology"
         }
       },
