@@ -131,6 +131,30 @@
           "name": "Dapper",
           "type": "technology"
         }
+      },      
+      {
+        "skill": {
+          "name": "Entity Framework",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Hangfire",
+          "type": "technology"
+        }
+      },      
+      {
+        "skill": {
+          "name": "SignalR",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Automapper",
+          "type": "technology"
+        }
       },
       {
         "skill": {
