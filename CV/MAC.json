@@ -116,7 +116,7 @@
       },
       {
         "skill": {
-          "name": "Azure DevOps",
+          "name": "Azure",
           "type": "technology"
         }
       },
@@ -131,34 +131,16 @@
           "name": "Dapper",
           "type": "technology"
         }
-      },      
-      {
-        "skill": {
-          "name": "EntityFramework",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Hangfire",
-          "type": "technology"
-        }
-      },      
-      {
-        "skill": {
-          "name": "SignalR",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Automapper",
-          "type": "technology"
-        }
       },
       {
         "skill": {
           "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Entity",
           "type": "technology"
         }
       },
@@ -191,15 +173,16 @@
           "name": "SQL",
           "type": "technology"
         }
-      },      {
+      },
+      {
         "skill": {
-          "name": "MMSSQL",
+          "name": "SQLServer",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "SQLServer",
+          "name": "SignalR",
           "type": "technology"
         }
       },
@@ -308,10 +291,6 @@
     "mainStackTechs": [
       {
         "name": ".NET",
-        "type": "technology"
-      },
-      {
-        "name": "Azure DevOps",
         "type": "technology"
       },
       {
