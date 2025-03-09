@@ -9,7 +9,7 @@
       "name": "Jesus",
       "surnames": "Bonete S.",
       "title": ".NET Developer | Backend Developer",
-      "description": "Soy un desarrollador de software con alrededor de 3 años de experiencia, actualmente trabajando en SAVIA, una empresa líder en servicios digitales en la administración pública. En mi día a día, desarrollo soluciones innovadoras y eficientes utilizando tecnologías como .NET, WebAPIs, Entity Framework y Dapper. Siempre buscando escribir código limpio, escalable, bien estructurado y la mejor forma de optimizar cada solución.\n\nLo que realmente me apasiona de este mundo es que siempre hay algo nuevo por aprender. Siento que los días se quedan cortos con todo lo que quiero explorar, por eso dedico gran parte de mi tiempo libre a seguir formándome, ya sea investigando nuevas tecnologías, mejorando mis conocimientos en arquitecturas de software o practicando con proyectos personales.\n\nDisfruto enfrentándome a nuevos retos, probando enfoques distintos y aprendiendo de cada experiencia. Mi objetivo es seguir creciendo tanto a nivel técnico como profesional, rodeado de un equipo que valore la mejora continua y el desarrollo de software de calidad. Puedes echar un vistazo a mi perfil de GitHub y mi portfolio web para conocer más sobre mi trabajo.",
+      "description": "Con alrededor de 3 años de experiencia en el desarrollo de software, actualmente trabajando en SAVIA, una empresa líder en servicios digitales en la administración pública. En mi día a día, desarrollo soluciones innovadoras y eficientes utilizando tecnologías como .NET, WebAPIs, Entity Framework y Dapper. Siempre buscando escribir código limpio, escalable, bien estructurado y la mejor forma de optimizar cada solución.\n\nLo que realmente me apasiona de este mundo es que siempre hay algo nuevo por aprender. Siento que los días se quedan cortos con todo lo que quiero explorar, por eso dedico gran parte de mi tiempo libre a seguir formándome, ya sea investigando nuevas tecnologías, mejorando mis conocimientos en arquitecturas de software o practicando con proyectos personales.\n\nDisfruto enfrentándome a nuevos retos, probando enfoques distintos y aprendiendo de cada experiencia. Mi objetivo es seguir creciendo tanto a nivel técnico como profesional, rodeado de un equipo que valore la mejora continua y el desarrollo de software de calidad. Puedes echar un vistazo a mi perfil de GitHub y mi portfolio web para conocer más sobre mi trabajo.",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/11/f5341c8a-94e3-436f-8b11-9ab36aa08ff0_linkedin-photo-43496.linkedin-photo-43496",
         "alt": "24/03/11/f5341c8a-94e3-436f-8b11-9ab36aa08ff0_linkedin-photo-43496.linkedin-photo-43496"
@@ -134,7 +134,7 @@
       },      
       {
         "skill": {
-          "name": "Entity Framework",
+          "name": "EntityFramework",
           "type": "technology"
         }
       },
