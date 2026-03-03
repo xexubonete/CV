@@ -40,6 +40,39 @@
     "jobs": [
       {
         "organization": {
+          "name": "Cafler"
+        },
+        "roles": [
+          {
+            "name": "Programador backend .NET",
+            "startDate": "2026-01-01",
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": "Azure",
+                "type": "technology"
+              },
+              {
+                "name": "Azure CosmosDB",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "gRPC",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Savia (by Berger-Levrault)"
         },
         "roles": [
